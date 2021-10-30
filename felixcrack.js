@@ -131,12 +131,6 @@ FxBot.on('group-participants-update', async (anu) => {
 ┃   「 *_BIENVENIDO_* 」
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
-┠⊷️ *Suscríbete*:
-┠⊷️*http://bit.ly/2ZUH2jP
-┠⊷️ *Grupo Oficial*:
-┠⊷️ *http://bit.ly/3hpkba4
-┗━━━━━━━━━━━━━━━━━
-┏━━━━━━━━━━━━━━━━━
 ┠⊷️「 *DESCRIPCIÓN* 」
 ┗━━━━━━━━━━━━━━━━━
 ┏━━━━━━━━━━━━━━━━━
